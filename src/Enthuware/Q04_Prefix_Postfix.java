@@ -1,5 +1,5 @@
 
-package PracticeTests;
+package Enthuware;
 public class Q04_Prefix_Postfix {
     public static void main(String[] args) {
 

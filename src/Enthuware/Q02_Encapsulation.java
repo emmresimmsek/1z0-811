@@ -1,4 +1,4 @@
-package PracticeTests;
+package Enthuware;
 
 public class Q02_Encapsulation {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package PracticeTests;
+package Enthuware;
 
 public class Q01_Array {
     public static void main(String[] args) {

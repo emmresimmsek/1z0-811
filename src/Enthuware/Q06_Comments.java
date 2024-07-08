@@ -1,4 +1,4 @@
-package PracticeTests;
+package Enthuware;
 
 public class Q06_Comments {
     public static void main(String[] args) {
